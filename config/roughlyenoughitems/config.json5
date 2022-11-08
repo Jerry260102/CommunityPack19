@@ -151,7 +151,7 @@
 		"favoritesHorizontalEntriesBoundaries": 1.0,
 		"favoritesHorizontalEntriesBoundariesColumns": 50,
 		"syntaxHighlightingMode": "COLORFUL",
-		"isFocusModeZoomed": false
+		"isFocusModeZoomed": true
 	},
 	"functionality": {
 		"inputMethod": null,
