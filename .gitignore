@@ -4,3 +4,13 @@ saves
 realms_persistence.json
 usercache.json
 usernamecache.json
+rhino.local.properties
+mods
+journeymap/data
+journeymap/icon
+journeymap/server
+journeymap/*.log
+kubejs/exported
+local
+resourcepacks
+downloads
